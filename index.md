@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="tianruiwang.jpg" class="floatpic">
+<img src="tianruiwang.jpg" width="50%" height="50%">
 
 Here is **Tianrui Wang (Aurora, 王天睿)**.
 
