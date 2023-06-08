@@ -29,8 +29,7 @@ Here is [my Resume(中文版本)](Resume-TianruiWang.pdf).
 - Beijing Zhipu Huazhang Technology Co., Ltd. (Tsinghua Holdings) 
     - Large Language Model R&D Intern
     - 2023.02-2023.04
-    - Participated in the research and development of the domestic large language model (ChatGLM) of Beijing Zhipu Huazhang Technology Co., Ltd., served as a research and development intern, and cooperated deeply with the Department of Computer Science and Technology of Tsinghua University, Tsinghua University Knowledge Engineering Laboratory (THUKEG) and other units, and conducted in-depth exploration on the training and optimization of large language models.
-    - ChatGLM-6B: An Open Bilingual Dialogue Language Model 开源双语对话语言模型 https://github.com/THUDM/ChatGLM-6B
+    - Participated in the research and development of the domestic large language model (ChatGLM, https://github.com/THUDM/ChatGLM-6B) of Beijing Zhipu Huazhang Technology Co., Ltd., served as a research and development intern, and cooperated deeply with the Department of Computer Science and Technology of Tsinghua University, Tsinghua University Knowledge Engineering Laboratory (THUKEG) and other units, and conducted in-depth exploration on the training and optimization of large language models.
 - Research on the Presentation of Chinese Elements in College English Reading Textbooks
     - Leader
     - 2020.12-2022.04
